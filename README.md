@@ -1,21 +1,21 @@
-# Hey, I'm Taban 👋
+## ore wa Taban!
 
-AI & ML student at ISBAT University, Uganda.
-Building things with Python, FastAPI, React, and slowly becoming a Rust guy.
+Bienvenue sur mon GitHub.
+AI & ML student at ISBAT.
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+### What I'm working on
 
-## 🚀 Projects
-- **[Cieng](https://github.com/rieksen/cieng)** — Nuer genealogy & lineage platform
-- **[Saliency](https://github.com/rieksen/saliency)** — Document summarizer with attention-based highlighting
-- **[Chessmate](https://github.com/rieksen/chessmate)** — Chess AI with CNN evaluation
+Mostly keeping things moving across a few projects:
+- Full-stack apps with FastAPI
+- Learning Rust (slowly but surely 🦀)
+- NFC mobile money concept called TabiPay
+- Trying to get into systems development with Rust
 
-## 📊 GitHub Stats
-![Taban's GitHub stats](https://github-readme-stats.vercel.app/api?username=rieksen&show_icons=true&theme=tokyonight)
+### The stack
 
-## 🌍 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourhandle)
+Python · FastAPI  · Rust (learning)
+
+### Nerd corner
+
+Currently watching One Piece. Plays Valorant and EA FC.
+Thinks about AI interpretability more than is probably healthy.
