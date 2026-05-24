@@ -7,7 +7,7 @@ AI & ML student at ISBAT.
 
 Mostly keeping things moving across a few projects:
 - Full-stack apps with FastAPI
-- Learning Rust (slowly but surely 🦀)
+- Learning Rust🦀
 - NFC mobile money concept called TabiPay
 - Trying to get into systems development with Rust
 
@@ -15,7 +15,3 @@ Mostly keeping things moving across a few projects:
 
 Python · FastAPI  · Rust (learning)
 
-### Nerd corner
-
-Currently watching One Piece. Plays Valorant and EA FC.
-Thinks about AI interpretability more than is probably healthy.
